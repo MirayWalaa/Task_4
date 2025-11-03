@@ -68,7 +68,7 @@ mongodb://karimahmedx12345_db_user:3j4pXtepJOOqUwdH@ac-8s5sv3m-shard-00-00.sytuj
 - Initially, the page should load all available perks
 - The page should look like this:
 - ![How it should look like](screenshots/screenshot.png)
-- Tets it on the frontend
-- Push it on Github (check the manual if you struggel)
+- Test it on the frontend
+- Push it on Github (check the manual if you struggle)
 - Show your TA for grading
 
